@@ -43,7 +43,7 @@ This project uses the **Credit Card Fraud Dataset** from Kaggle.
 
 ### Dataset Link
 
-[:contentReference[oaicite:1]{index=1}](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud)
+🔗 [Credit Card Fraud Dataset](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud)
 
 ### Dataset Characteristics
 
@@ -171,7 +171,7 @@ Credit_Card_Fraud_Detection.ipynb
 
 This project uses the publicly available dataset from Kaggle:
 
-[:contentReference[oaicite:2]{index=2}](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud)
+🔗 [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud)
 
 ---
 
